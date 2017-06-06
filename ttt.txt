@@ -1,0 +1,3 @@
+var gg = function(msg) {
+    return 'hello' + msg;
+}
