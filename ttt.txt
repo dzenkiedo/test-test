@@ -2,3 +2,8 @@ $(function() {
     var isNotVal = false;
     return isNotVal;
 });
+
+
+var ff = function() {
+    return true;
+}
