@@ -1,3 +1,4 @@
-var gg = function(msg) {
-    return 'hello' + msg;
-}
+$(function() {
+    var isValid = false;
+    return isValid;
+});
