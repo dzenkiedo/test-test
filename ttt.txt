@@ -1,4 +1,4 @@
 $(function() {
-    var isValid = false;
-    return isValid;
+    var isNotVal = false;
+    return isNotVal;
 });
